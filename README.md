@@ -23,6 +23,7 @@ Saya seorang **Web development enthusiasm**.
 
 Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend web development**
 
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,3 +32,7 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 
 | <a href="https://github.com/firgadev29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=firgadev29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/firgadev29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+- 🌱 I’m currently learning flutter
+- - 📫 How to reach me ? You can contact me by email
+- 
