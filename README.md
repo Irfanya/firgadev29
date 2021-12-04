@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 # Halo semua! 
 
-Perkenalkan nama saya **Firga Ismayoza**.\
+Perkenalkan nama saya **Firga Ismayoza**.
 
-Saya seorang **Junior web development** 
+Saya seorang **Junior web development**.
 
 Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend web development**
