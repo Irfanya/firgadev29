@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @firgadev29
+<!--- 👋 Hi, I’m @firgadev29
 - 👀 I’m interested in Fullstack web Developer
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter --->
 
 
 <!---
