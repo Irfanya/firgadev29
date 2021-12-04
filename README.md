@@ -23,13 +23,6 @@ Saya seorang **Junior web development**.
 
 Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend web development**
 
-<p align="left">
-<a href="https://github.com/firgadev29">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firgadev29&langs_count=8"/>
-
-</a>
-</p>
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
