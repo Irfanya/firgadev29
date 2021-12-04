@@ -18,3 +18,10 @@ Perkenalkan nama saya **Firga Ismayoza**.
 Saya seorang **Junior web development**.
 
 Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend web development**
+
+<p align="left">
+<a href="https://github.com/firgadev29">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
