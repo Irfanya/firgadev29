@@ -23,5 +23,5 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 <a href="https://github.com/firgadev29">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firgadev29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firgadev29)](https://github.com/firgadev29/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firgadev29"/>
 </p>
