@@ -21,7 +21,7 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 
 <p align="left">
 <a href="https://github.com/firgadev29">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firgadev29&show_icons=true&theme=flag_india&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firgadev29&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
   
 </a>
