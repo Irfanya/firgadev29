@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Firga Ismayoza**.
 
-Saya seorang **Junior web development**.
+Saya seorang **Web development enthusiasm**.
 
 Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend web development**
 
