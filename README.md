@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua 👋 
+# Hi there 👋 
 
 Perkenalkan nama saya **Firga Ismayoza**.
 
