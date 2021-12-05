@@ -41,7 +41,6 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 </a>
 <br />
 <br />
-<img src="https://github.com/firgadev29/cafe-app-v1"/>
 
 
 - 🌱 I’m currently learning flutter
