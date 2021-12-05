@@ -34,11 +34,8 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 | ------------- | ------------- |
 
 **Top Repositories**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/firgadev29/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firgadev29&repo=firgadev29.github.io&theme=buefy" />
 </a>
 
 - 🌱 I’m currently learning flutter
