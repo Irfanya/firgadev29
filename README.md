@@ -45,6 +45,6 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 
 
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me ? You can contact me via my email address which is *ismy291z@gmail.com*
+- 📫 How to reach me ? You can contact me via email address which is *ismy291z@gmail.com*
 
 
