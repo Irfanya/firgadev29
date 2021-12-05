@@ -34,6 +34,7 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 | ------------- | ------------- |
 
 **Top Repositories**
+
 <a href="https://github.com/firgadev29/firgadev29">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firgadev29&repo=firgadev29&theme=buefy" />
 </a>
