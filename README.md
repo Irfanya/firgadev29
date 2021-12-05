@@ -33,11 +33,6 @@ Saya mempunyai pengetahuan dibidang **backend web development** dan **frontend w
 | <a href="https://github.com/firgadev29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=firgadev29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/firgadev29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-**Top Repositories**
-
-<a href="https://github.com/firgadev29/firgadev29">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=firgadev29&repo=firgadev29&theme=buefy" />
-</a>
 
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me ? You can contact me via my email address which is *ismy291z@gmail.com*
